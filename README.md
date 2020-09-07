@@ -1,9 +1,4 @@
-朋友们，大家好 👋
-
-<!--
-**wei0ai0/wei0ai0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+朋友，你好
+我叫何爱林，来自福建福州。
+喜欢策略类游戏，并希望自己也设计出关于策略游戏。
+在大学学好专业知识，以及努力完善自己。
